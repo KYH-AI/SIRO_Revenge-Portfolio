@@ -46,4 +46,4 @@
 
 > Google Drive 다운로드 링크
 
-[🔗 구글 드라이브](https://yourgame.itch.io)
+[🔗 시로의 복수.zip](https://drive.google.com/file/d/18EWZkvrUWhSwDjVD_BNs2SmN9T4qMa4z/view?usp=sharing)
